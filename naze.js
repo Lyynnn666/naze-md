@@ -1007,7 +1007,7 @@ break
             }
             break
             case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                naze.sendMessage(m.chat, { image: fs.readFileSync('./media/image/naze.jpg'), caption: `*${ucapanWaktu} Kak ${m.pushName}*\n\n *Jika ingin berdonasi*\nGraris ke Group\n*Silahkan Chat Owner*\n\n*Atau klik link dibawah ini*\n_https://saweria.co/LynnZakky_\n\n*Atau Transfer via*\n- *Dana  Qris*\n Ke nomer berikut : 083830815715\n\n_Terima kasih_` }, { quoted: m })
+                naze.sendMessage(m.chat, { image: fs.readFileSync('./media/image/naze.jpg'), caption: `*${ucapanWaktu} Kak ${m.pushName}*\n\n *Jika ingin berdonasi*\nGratis ke Group\n*Silahkan Chat Owner*\n\n*Atau klik link dibawah ini*\n_https://saweria.co/LynnZakky_\n\n*Atau Transfer via*\n- *Dana  Qris*\n Ke nomer berikut : 083830815715\n\n_Terima kasih_` }, { quoted: m })
             }
             break
             case 'sc': {
