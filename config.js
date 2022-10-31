@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['12084328272']
-global.ownernomer = "12084328272"
-global.premium = ['12084328272']
+global.owner = ['6283890585717']
+global.ownernomer = "6283890585717"
+global.premium = ['6283890585717']
 global.packname = 'Sticker By'
 global.author = 'L y n n 亥'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
@@ -66,7 +66,7 @@ global.mygc = "_"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'L y n n 亥'
-global.akulaku = 'Bot By Zakky'
+global.akulaku = 'Bot By Tasyaa'
 global.ytname = 'YT Lynn' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
